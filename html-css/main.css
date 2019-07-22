@@ -1,0 +1,27 @@
+body {
+  color: #FF0000;
+  font-family: "Helvetica";
+}
+
+h1, h2 {
+  /* background-color: #AAAAAA; */
+}
+
+a, strong {
+  /* background-color: blue; */
+  /* display: block; */
+}
+
+button {
+  background-color: #0096b4;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  display: block;
+  font-size: 14px;
+  padding: 10px;
+}
+
+#orangeButton {
+  background-color: orange;
+}
