@@ -1,0 +1,35 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  display: inline-block;
+  font-family: 'Helvetica Neue';
+  margin-right: 10px;
+  width: 300px;
+}
+
+.card img {
+  display: block;
+  height: 300px;
+  width: 300px;
+}
+
+.card h1 {
+  font-size: 20px;
+  margin: 0;
+}
+
+.card h2 {
+  color: #aaa;
+  font-size: 14px;
+  font-weight: normal;
+  margin-top: 8px;
+}
+
+.card p {
+  color: #444;
+  margin: 0;
+}
+
+.card-content {
+  padding: 20px;
+}

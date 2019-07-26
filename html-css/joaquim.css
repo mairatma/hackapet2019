@@ -1,0 +1,56 @@
+body {
+  color: red;
+}
+
+.summary {
+  border: 1px solid black;
+}
+
+.summary .link {
+  color: green;
+}
+
+.summary .link:hover {
+  color: pink;
+}
+
+h1 {
+  border: 10px solid red;
+  margin: 50px;
+  padding: 50px;
+  background-color: #cccccc;
+}
+
+p {
+  border: 1px solid red;
+  display: inline-block;
+}
+
+button {
+  background-color: blue;
+}
+
+button {
+  background-color: red;
+}
+
+button {
+  background-color: green;
+}
+
+.myButton {
+  color: white;
+}
+
+.orangeButton {
+  background-color: orange;
+}
+
+
+h1, p {
+  /* background-color: gray; */
+}
+
+a {
+  /* background-color: pink; */
+}
